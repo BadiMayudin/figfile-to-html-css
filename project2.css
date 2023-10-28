@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+}
+.header{
+    width: 100%;
+    height: 60px;
+    display: flex;
+}
+.anchor a{
+    text-decoration: none;
+    color: #838484;
+    margin-left: 10px;
+    transition: all ease 0.5s;
+
+}
+.anchor{
+    margin-left: 490px;
+    margin-top: 30px;
+}
+.anchor :hover{
+    background-color: #003668;
+    color: white;
+}
+.hero-section{
+    width: 100%;
+    height: 190px;
+    background-color: #E9F4FF;
+    margin-top: 50px;
+    padding-top: 80px;
+}
+.hero-section span{
+    color: #003668;
+    font-weight: bold;
+    margin-left: 200px;
+   
+}
+input{
+    width: 100px;
+    height: 30px;
+    background-color: #003668;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    margin-left: 200px;
+    margin-top: 20px;
+}
